@@ -84,4 +84,4 @@ main/
 
 ## Author
 
-Add your name, college, course, and project guide details here if you want them displayed on GitHub.
+Mohd Furqaan Ahmed
