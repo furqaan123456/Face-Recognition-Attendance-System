@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# Local databases and generated attendance data
+*.db
+*.sqlite
+*.sqlite3
+main/static/attendance_logs/*
+!main/static/attendance_logs/.gitkeep
+main/filtered_attendance.csv
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
